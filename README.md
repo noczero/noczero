@@ -7,7 +7,7 @@
 * [Zerotwitty Assistant](https://github.com/noczero/Zerotwitty-Assistant) - *My personal Twitter bot that do NLP things*
 
 #### I Work with
-* 💻 Python |  C++ | Java | Javascript | PHP | CSS | MATLAB | Go 
+* 💻 Python | C++ | C# | Java | Javascript | PHP | CSS | MATLAB | GO | Pascal 
 * ☁ Ubuntu | Windows | Mac Os
 * :white_square_button: PyCharm Professional | WebStorm | GoLand | Visual Studio Code | Android Studio
 
@@ -22,6 +22,8 @@
 [![Years Badge](https://badges.pufler.dev/commits/all/noczero)](https://github.com/noczero)
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=noczero)](https://github.com/noczero)
+
+[![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=noczero)]
 #### Other Social Medias
 🐦 [Twitter](https://twitter.com/sstry_bp) | 💼 [LinkedIn](https://www.linkedin.com/in/satrya-budi-pratama) | 📧 [Email](mailto:zeroonetm@gmail.com)
  
