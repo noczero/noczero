@@ -15,8 +15,13 @@
 * [ZeroTF-Docker-Stack](https://github.com/noczero/ZeroTF-Docker-Stack) - *TensorFlow with GPU enabled, Jupyter, Code-Server in Docker.*
 
  #### Stats
-[![Stats](https://github-readme-stats.vercel.app/api?username=noczero)](https://github.com/blue-1ms)
 
+![](https://komarev.com/ghpvc/?username=noczero&color=brightgreen)
+[![Years Badge](https://badges.pufler.dev/years/noczero)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/repos/noczero)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/commits/all/noczero)](https://badges.pufler.dev)
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=noczero)](https://github.com/blue-1ms)
 #### Other Social Medias
 🐦 [Twitter](https://twitter.com/sstry_bp) | 💼 [LinkedIn](https://www.linkedin.com/in/satrya-budi-pratama) | 📧 [Email](mailto:zeroonetm@gmail.com)
  
