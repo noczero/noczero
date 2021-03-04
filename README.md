@@ -7,7 +7,7 @@
 * [Zerotwitty Assistant](https://github.com/noczero/Zerotwitty-Assistant) - *My personal Twitter bot that do NLP things*
 
 #### I Work with
-* 💻 Python | C++ | C# | Java | JavaScript | PHP | HTML | CSS | MATLAB | GO | Pascal 
+* 💻 Python | C++ | C# | Java | JavaScript | PHP | HTML | CSS | MATLAB | GO | Pascal
 * ☁ Ubuntu | Windows | Mac Os
 * :white_square_button: PyCharm Professional | WebStorm | GoLand | Visual Studio Code | Android Studio
 
@@ -21,7 +21,9 @@
 [![Years Badge](https://badges.pufler.dev/repos/noczero)](https://github.com/noczero)
 [![Years Badge](https://badges.pufler.dev/commits/all/noczero)](https://github.com/noczero)
 
-[![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=noczero&theme=dark) ![Stats](https://github-readme-stats.vercel.app/api?username=noczero&theme=dark)](https://github.com/noczero) 
+[![Lang](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=noczero&layout=compact&langs_count=8&theme=algolia) ![Stats](https://github-readme-stats.vercel.app/api?username=noczero&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](https://github.com/noczero) 
 #### Other Social Medias
-🐦 [Twitter](https://twitter.com/sstry_bp) | 💼 [LinkedIn](https://www.linkedin.com/in/satrya-budi-pratama) | 📧 [Email](mailto:zeroonetm@gmail.com)
- 
+<p align="center">
+<a href="https://linkedin.com/in/satrya-budi-pratama"><img src="https://img.shields.io/badge/-Satrya%20Budi%20Pratama-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:zeroonetm@gmail.com"><img src="https://img.shields.io/badge/-zeroonetm@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
