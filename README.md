@@ -22,6 +22,7 @@
 [![Years Badge](https://badges.pufler.dev/commits/all/noczero)](https://github.com/noczero)
 
 [![Lang](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=noczero&layout=compact&langs_count=8&theme=algolia) ![Stats](https://github-readme-stats.vercel.app/api?username=noczero&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](https://github.com/noczero) 
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=noczero&count_private=true&theme=algolia)
 #### Other Social Medias
 <p align="center">
 <a href="https://linkedin.com/in/satrya-budi-pratama"><img src="https://img.shields.io/badge/-Satrya%20Budi%20Pratama-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
