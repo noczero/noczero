@@ -3,7 +3,7 @@
 
 #### Current Working on
 * [Indonesia COVID-19 Analytics & Explorations](https://github.com/noczero/Indonesia-COVID-19-Analytics-n-Explorations) - *Exploring covid-19 in Indonesia using data science approach*
-* [DelftX ROS-1 Course](https://github.com/blue-1ms/Simplan) - *My in DelftX: ROS1x Hello (Real) World with ROS – Robot Operating System*
+* [DelftX ROS-1 Course](https://github.com/blue-1ms/Simplan) - *My works in DelftX: ROS1x Hello (Real) World with ROS – Robot Operating System*
 * [Zerotwitty Assistant](https://github.com/ShaanCoding/Tekh) - *My personal Twitter bot that do NLP things*
 
 #### I work with
