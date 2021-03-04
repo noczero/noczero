@@ -15,6 +15,7 @@
 * [ZeroTF Docker Stack](https://github.com/noczero/ZeroTF-Docker-Stack) - *TensorFlow with GPU enabled, Jupyter, Code-Server in Docker.*
 
 #### My GitHub Statistics
+<div align="center"> 
 
 ![](https://komarev.com/ghpvc/?username=noczero&color=brightgreen)
 [![Years Badge](https://badges.pufler.dev/years/noczero)](https://github.com/noczero)
@@ -24,6 +25,9 @@
 [![Lang](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=noczero&layout=compact&langs_count=8&hide_border=true&theme=algolia) ![Stats](https://github-readme-stats.vercel.app/api?username=noczero&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/noczero) 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=noczero&count_private=true&theme=algolia&hide_border=true)
 ![Streak](https://activity-graph.herokuapp.com/graph?username=Hendrasob&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&count_private=true&theme=algolia)
+
+</div>
+
 #### Other Social Medias
 <p align="center">
 <a href="https://linkedin.com/in/satrya-budi-pratama"><img src="https://img.shields.io/badge/-Satrya%20Budi%20Pratama-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
