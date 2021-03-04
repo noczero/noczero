@@ -21,7 +21,7 @@
 [![Years Badge](https://badges.pufler.dev/repos/noczero)](https://github.com/noczero)
 [![Years Badge](https://badges.pufler.dev/commits/all/noczero)](https://github.com/noczero)
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=noczero)](https://github.com/noczero) ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=noczero)
+[![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=noczero&theme=dark) ![Stats](https://github-readme-stats.vercel.app/api?username=noczero&theme=dark)](https://github.com/noczero) 
 #### Other Social Medias
 🐦 [Twitter](https://twitter.com/sstry_bp) | 💼 [LinkedIn](https://www.linkedin.com/in/satrya-budi-pratama) | 📧 [Email](mailto:zeroonetm@gmail.com)
  
