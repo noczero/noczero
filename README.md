@@ -17,6 +17,7 @@
  #### Stats
 
 ![](https://komarev.com/ghpvc/?username=noczero&color=brightgreen)
+
 [![Years Badge](https://badges.pufler.dev/years/noczero)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/repos/noczero)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/commits/all/noczero)](https://badges.pufler.dev)
