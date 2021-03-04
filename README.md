@@ -7,7 +7,7 @@
 * [Zerotwitty Assistant](https://github.com/noczero/Zerotwitty-Assistant) - *My personal Twitter bot that do NLP things*
 
 #### I work with
-* 💻 Python | C++ | Java | Javascript | Go
+* 💻 Python |  C++ | Java | Javascript | PHP | CSS | MATLAB | Go 
 * ☁ Ubuntu | Windows | Mac Os
 * :white_square_button: PyCharm Professional | WebStorm | GoLand | Visual Studio Code | Android Studio
 
