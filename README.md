@@ -24,7 +24,7 @@
 
 [![Lang](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=noczero&layout=compact&langs_count=8&hide_border=true&theme=algolia) ![Stats](https://github-readme-stats.vercel.app/api?username=noczero&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/noczero) 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=noczero&count_private=true&theme=algolia&hide_border=true)
-![Streak](https://activity-graph.herokuapp.com/graph?username=Hendrasob&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&count_private=true&theme=algolia)
+![Streak](https://activity-graph.herokuapp.com/graph?username=noczero&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&count_private=true&theme=algolia)
 
 </div>
 
