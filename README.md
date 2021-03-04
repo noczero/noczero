@@ -3,8 +3,8 @@
 
 #### Current Working on
 * [Indonesia COVID-19 Analytics & Explorations](https://github.com/noczero/Indonesia-COVID-19-Analytics-n-Explorations) - *Exploring covid-19 in Indonesia using data science approach*
-* [DelftX ROS-1 Course](https://github.com/blue-1ms/Simplan) - *My works in DelftX: ROS1x Hello (Real) World with ROS – Robot Operating System*
-* [Zerotwitty Assistant](https://github.com/ShaanCoding/Tekh) - *My personal Twitter bot that do NLP things*
+* [DelftX ROS-1 Course](https://github.com/noczero/DelftX-ROS-1-Course) - *My works in DelftX: ROS1x Hello (Real) World with ROS – Robot Operating System*
+* [Zerotwitty Assistant](https://github.com/noczero/Zerotwitty-Assistant) - *My personal Twitter bot that do NLP things*
 
 #### I work with
 * 💻 Python | C++ | Java | Javascript
@@ -12,7 +12,7 @@
 * :white_square_button: PyCharm Professional | WebStorm | GoLand | Visual Studio Code | Android Studio
 
 #### Some Completed Stuff
-* [ZeroTF-Docker-Stack](https://github.com/noczero/ZeroTF-Docker-Stack) - *TensorFlow with GPU enabled, Jupyter, Code-Server in Docker.*
+* [ZeroTF Docker Stack](https://github.com/noczero/ZeroTF-Docker-Stack) - *TensorFlow with GPU enabled, Jupyter, Code-Server in Docker.*
 
  #### Stats
 
