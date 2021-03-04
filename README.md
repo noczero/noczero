@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/noczero/noczero/master/styles/Hi.gif" width="30px">
-* Welcome to my virtual workspace, feel free to check out my 🌐 [website](https://satrya.zeroinside.in).
+* Welcome to my virtual workspace, feel free to check out my [website](https://satrya.zeroinside.in) and [blog](https://blog.zeroinside.in).
 
 #### Currently Working on
 * [Indonesia COVID-19 Analytics & Explorations](https://github.com/noczero/Indonesia-COVID-19-Analytics-n-Explorations) - *Exploring COVID-19 in Indonesia using data science.*
