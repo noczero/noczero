@@ -31,5 +31,5 @@
 #### Other Social Medias
 <p align="center">
 <a href="https://linkedin.com/in/satrya-budi-pratama"><img src="https://img.shields.io/badge/-Satrya%20Budi%20Pratama-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:zeroonetm@gmail.com"><img src="https://img.shields.io/badge/-zeroonetm@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:satrya@zeroinside.id"><img src="https://img.shields.io/badge/-satrya@zeroinside.id-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
