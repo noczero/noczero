@@ -3,6 +3,7 @@
 
 #### Currently Working on
 * [Zerotwitty Assistant](https://github.com/noczero/Zerotwitty-Assistant) - *My personal Twitter bot that do NLP things*
+* [Golang Hands On](https://github.com/noczero/Golang-Hands-On) - *Learn Go from start to advance with practice, inspired by Programmer Zaman Now*. 
 
 #### I Work with
 * 💻 Python | Golang | C++ | C# | Java | JavaScript | PHP | HTML | CSS | MATLAB | Pascal
