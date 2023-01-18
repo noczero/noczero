@@ -21,10 +21,11 @@
 
 ![](https://komarev.com/ghpvc/?username=noczero&color=brightgreen)
 
-[![Lang](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=noczero&layout=compact&langs_count=8&hide_border=true&theme=algolia) ![Stats](https://github-readme-stats.vercel.app/api?username=noczero&show_icons=true&theme=transparent)](https://github.com/noczero) 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/noczero/langs?time_range=one_year&loc_metric=changed&compact=True&theme=bright_lights)](https://githubtrends.io)
+
+[![Lang](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=noczero&layout=compact&langs_count=8&hide_border=true&theme=algolia) ![Stats](https://github-readme-stats.vercel.app/api?username=noczero&show_icons=true&hide_border=true&theme=algolia)](https://github.com/noczero) 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=noczero&count_private=true&theme=algolia&hide_border=true)
 [![Satrya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=noczero&theme=tokyo-night)](https://github.com/noczero/github-readme-activity-graph)
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/noczero/langs)](https://githubtrends.io)
 
 </div>
 
