@@ -6,9 +6,9 @@
 * [Golang Hands On](https://github.com/noczero/Golang-Hands-On) - *Learn Go from start to advance with practice, inspired by Programmer Zaman Now*. 
 
 #### I Work with
-* 💻 Python | Golang | C++ | C# | Java | JavaScript | PHP | HTML | CSS | MATLAB | Pascal
-* ☁ Ubuntu | Windows | Mac Os
-* :white_square_button: PyCharm Professional | WebStorm | GoLand | Visual Studio Code | Android Studio
+* 💻 [ Python | Golang | C++ | C# | Java | JavaScript | PHP | HTML | CSS | MATLAB | Pascal ]
+* ☁ [ Ubuntu | Windows | Mac Os ]
+* :white_square_button: [PyCharm Professional | WebStorm | GoLand | Visual Studio Code | Android Studio]
 
 #### Some Completed Stuff
 * [ZeroTF Docker Stack](https://github.com/noczero/ZeroTF-Docker-Stack) - *TensorFlow with GPU enabled, Jupyter, Code-Server in Docker.*
@@ -20,13 +20,12 @@
 <div align="center"> 
 
 ![](https://komarev.com/ghpvc/?username=noczero&color=brightgreen)
-[![Years Badge](https://badges.pufler.dev/years/noczero)](https://github.com/noczero)
-[![Years Badge](https://badges.pufler.dev/repos/noczero)](https://github.com/noczero)
-[![Years Badge](https://badges.pufler.dev/commits/all/noczero)](https://github.com/noczero)
 
 [![Lang](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=noczero&layout=compact&langs_count=8&hide_border=true&theme=algolia) ![Stats](https://github-readme-stats.vercel.app/api?username=noczero&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/noczero) 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=noczero&count_private=true&theme=algolia&hide_border=true)
 ![Streak](https://activity-graph.herokuapp.com/graph?username=noczero&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&count_private=true&theme=algolia)
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/noczero/langs)](https://githubtrends.io)
 
 </div>
 
