@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/noczero/noczero/master/styles/Hi.gif" width="30px">
-* Welcome to my virtual workspace, feel free to check out my [website](https://satrya.zeroinside.in) and [blog](https://blog.zeroinside.in).
+* Welcome to my virtual workspace, feel free to check out my [website](https://satrya.zeroinside.id) and [blog](https://blog.zeroinside.id).
 
 #### Currently Working on
 * [Zerotwitty Assistant](https://github.com/noczero/Zerotwitty-Assistant) - *My personal Twitter bot that do NLP things*
