@@ -2,6 +2,7 @@
 * Welcome to my virtual workspace, feel free to check out my [website](https://satrya.zeroinside.id) and [blog](https://blog.zeroinside.id).
 
 #### Currently Working on
+* [Zero-PrayerTimes](https://github.com/noczero/Zero-PrayerTimes) - *A simple prayer time that will play adhan sound with doa in foreground as a Linux CLI application.*
 * [Zerotwitty Assistant](https://github.com/noczero/Zerotwitty-Assistant) - *My personal Twitter bot that do NLP things*
 * [Golang Hands On](https://github.com/noczero/Golang-Hands-On) - *Learn Go from start to advance with practice, inspired by Programmer Zaman Now*. 
 
