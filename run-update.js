@@ -37,6 +37,8 @@ const setWeatherInformation = () => {
                 data.lastIndexOf("</pre>")
             );
 
+            extractTextPre = extractTextPre.replace("Now:</font>", "Last Update:</font>")
+
             const cleanWeatherInformation = ['<', extractTextPre.trim(), '</pre>'].join('')
 
             updatedText = updatedText.replace("<MASK_WEATHER/>", cleanWeatherInformation)
