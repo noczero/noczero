@@ -37,11 +37,11 @@
 
 #### Additional
 <div align="center"> 
-⏳ Year progress |████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁| 29.58 %
+⏳ Year progress |████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁| 29.65 %
 <pre>
-<font color='#777777'>Weather:</font> ⛅️  Partly cloudy, +91°F, 59%, ↓12mph, 1008hPa
+<font color='#777777'>Weather:</font> ⛅️  Partly cloudy, +88°F, 71%, ↓6mph, 1005hPa
 <font color='#777777'>Timezone:</font> Asia/Jakarta
-<font color='#777777'>  Last Update:</font>    13:21:59+0700 <font color='#777777'>|</font> <font color='#777777'>Dawn:</font>    05:57:12  <font color='#777777'>|</font> <font color='#777777'>Sunrise:</font> 06:18:42
+<font color='#777777'>  Last Update:</font>    19:29:52+0700 <font color='#777777'>|</font> <font color='#777777'>Dawn:</font>    05:57:12  <font color='#777777'>|</font> <font color='#777777'>Sunrise:</font> 06:18:42
 <font color='#777777'>  Zenith:</font> 12:24:40      <font color='#777777'>|</font> <font color='#777777'>Sunset:</font>  18:30:35  <font color='#777777'>|</font> <font color='#777777'>Dusk:</font>    18:52:06
 <font color='#777777'>Location:</font> Medan [3.5608,98.6643]</pre>
 </div>
