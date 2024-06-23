@@ -7,7 +7,7 @@
 * [Golang Hands On](https://github.com/noczero/Golang-Hands-On) - *Learn Go from start to advance with practice, inspired by Programmer Zaman Now*. 
 
 #### I Work with
-* 💻 [ Python | Ruby | Golang | C++ | C# | Java | JavaScript | PHP | HTML | CSS | MATLAB | Pascal ]
+* 💻 [ Ruby | JavaScript | Rust | Python | Golang | C++ | C# | Java | PHP | HTML | CSS | MATLAB | Pascal ]
 * ☁ [ Ubuntu | Windows | Mac Os ]
 * :white_square_button: [PyCharm Professional | Ruby Mine | WebStorm | GoLand | Visual Studio Code | Android Studio]
 
