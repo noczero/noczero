@@ -1,21 +1,20 @@
-### Hi there <img src="https://raw.githubusercontent.com/noczero/noczero/master/styles/Hi.gif" width="30px">
+### Hi there, I'm Satrya!  <img src="https://raw.githubusercontent.com/noczero/noczero/master/styles/Hi.gif" width="30px">
 * Welcome to my virtual workspace, feel free to check out my [website](https://satrya.zeroinside.id) and [blog](https://blog.zeroinside.id).
-
-#### Currently Working on
-* [Zero-PrayerTimes](https://github.com/noczero/Zero-PrayerTimes) - *A simple prayer time that will play adhan sound with doa in foreground as a Linux CLI application.*
-* [Zerotwitty Assistant](https://github.com/noczero/Zerotwitty-Assistant) - *My personal Twitter bot that do NLP things*
-* [Golang Hands On](https://github.com/noczero/Golang-Hands-On) - *Learn Go from start to advance with practice, inspired by Programmer Zaman Now*. 
+* I’m a [1x Engineer](https://1x.engineer/) in the Product/AI/Robotic fields.
+* I'm currently working as AI Implementation Engineer at [Influx](https://influx.com).
 
 #### I Work with
-* 💻 [ Python | Ruby | Golang | C++ | C# | Java | JavaScript | PHP | HTML | CSS | MATLAB | Pascal ]
+* 💻 [ Ruby | JavaScript | Rust | Python | Golang | C++ | C# | Java | PHP | HTML | CSS | MATLAB | Pascal ]
 * ☁ [ Ubuntu | Windows | Mac Os ]
-* :white_square_button: [PyCharm Professional | Ruby Mine | WebStorm | GoLand | Visual Studio Code | Android Studio]
+* :white_square_button: [ Jetbrains IDEs | Visual Studio Code | Android Studio ]
 
 #### Some Completed Stuff
 * [ZeroTF Docker Stack](https://github.com/noczero/ZeroTF-Docker-Stack) - *TensorFlow with GPU enabled, Jupyter, Code-Server in Docker.*
 * [Indonesia COVID-19 Analytics & Explorations](https://github.com/noczero/Indonesia-COVID-19-Analytics-n-Explorations) - *Exploring COVID-19 in Indonesia using data science.*
 * [DelftX ROS-1 Course](https://github.com/noczero/DelftX-ROS-1-Course) - *My works in DelftX: ROS1x Hello (Real) World with ROS – Robot Operating System*
-
+* [Zero-PrayerTimes](https://github.com/noczero/Zero-PrayerTimes) - *A simple prayer time that will play adhan sound with doa in foreground as a Linux CLI application.*
+* [Zerotwitty Assistant](https://github.com/noczero/Zerotwitty-Assistant) - *My personal Twitter bot that do NLP things*
+* [Golang Hands On](https://github.com/noczero/Golang-Hands-On) - *Learn Go from start to advance with practice, inspired by Programmer Zaman Now*. 
 
 #### My GitHub Statistics
 <div align="center"> 
@@ -37,11 +36,11 @@
 
 #### Additional
 <div align="center"> 
-⏳ Year progress |██████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁| 48.16 %
+⏳ Year progress |██████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁| 48.19 %
 <pre>
-<font color='#777777'>Weather:</font> ☀️   Sunny, +91°F, 58%, ↙4mph, 1007hPa
+<font color='#777777'>Weather:</font> ☀️   Sunny, +33°C, 58%, ↙6km/h, 1007hPa
 <font color='#777777'>Timezone:</font> Asia/Jakarta
-<font color='#777777'>  Last Update:</font>    13:25:03+0700 <font color='#777777'>|</font> <font color='#777777'>Dawn:</font>    05:55:20  <font color='#777777'>|</font> <font color='#777777'>Sunrise:</font> 06:18:24
+<font color='#777777'>  Last Update:</font>    16:05:34+0700 <font color='#777777'>|</font> <font color='#777777'>Dawn:</font>    05:55:20  <font color='#777777'>|</font> <font color='#777777'>Sunrise:</font> 06:18:24
 <font color='#777777'>  Zenith:</font> 12:28:01      <font color='#777777'>|</font> <font color='#777777'>Sunset:</font>  18:37:43  <font color='#777777'>|</font> <font color='#777777'>Dusk:</font>    19:00:46
 <font color='#777777'>Location:</font> Medan [3.5608,98.6643]</pre>
 </div>
