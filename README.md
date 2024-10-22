@@ -36,7 +36,7 @@
 
 #### Additional
 <div align="center"> 
-⏳ Year progress |████████████████████████▁▁▁▁▁▁| 80.75 %
+⏳ Year progress |████████████████████████▁▁▁▁▁▁| 80.81 %
 <<html>
 <title>wttr.in</title>
 <head>
