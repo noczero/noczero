@@ -9,7 +9,7 @@ const progressPercentage = (progressBarRatio * 100).toFixed(2)
 
 let updatedText = ''
 
-const city = 'Medan';
+const city = 'Bandung';
 const weatherUrl = `https://wttr.in/${city}?format=v2`;
 
 const progressBarOfThisYear = () => {
