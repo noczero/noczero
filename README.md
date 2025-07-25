@@ -36,21 +36,11 @@
 
 #### Additional
 <div align="center"> 
-⏳ Year progress |████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁| 56.19 %
-<<html>
-<title>wttr.in</title>
-<head>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</head>
-<body style='background:black'>
-<pre style='color:#cccccc'>
-Sorry, we processed more than 1M requests today and we ran out of our datasource capacity.
-We hope to solve the problem as soon as possible, so you can enjoy
-your favourite weather service 24x365 even if it rains or snows.
-
-We will solve the problem as soon as possible.
-<a href="https://twitter.com/igor_chubin" class="twitter-follow-button" data-show-count="false" data-button="grey">Follow @igor_chubin</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script><span style='position: relative; bottom: 6px;'>for the updates. </span>
-
-If you like to code (and you surely do), you can check the <span style='position: relative; bottom: -6px;'><a aria-label="Star chubin/wttr.in on GitHub" data-count-aria-label="# stargazers on GitHub" data-count-api="/repos/chubin/wttr.in#stargazers_count" data-count-href="/chubin/wttr.in/stargazers" data-icon="octicon-star" href="https://github.com/chubin/wttr.in" class="github-button">wttr.in</a></span> repository
-to see how the scalability problem is (not yet) solved.</pre>
+⏳ Year progress |████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁| 56.24 %
+<pre>
+<font color='#777777'>Weather:</font> ☀️   Sunny, +84°F, 48%, ↙4mph, 1011hPa
+<font color='#777777'>Timezone:</font> Asia/Jakarta
+<font color='#777777'>  Last Update:</font>    13:38:16+0700 <font color='#777777'>|</font> <font color='#777777'>Dawn:</font>    05:40:13  <font color='#777777'>|</font> <font color='#777777'>Sunrise:</font> 06:02:42
+<font color='#777777'>  Zenith:</font> 11:56:08      <font color='#777777'>|</font> <font color='#777777'>Sunset:</font>  17:49:37  <font color='#777777'>|</font> <font color='#777777'>Dusk:</font>    18:12:06
+<font color='#777777'>Location:</font> Bandung, Jawa Barat, Indonesia [-6.9338,107.6049]</pre>
 </div>
