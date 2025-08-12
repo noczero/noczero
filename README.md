@@ -36,11 +36,11 @@
 
 #### Additional
 <div align="center"> 
-⏳ Year progress |██████████████████▁▁▁▁▁▁▁▁▁▁▁▁| 61.03 %
+⏳ Year progress |██████████████████▁▁▁▁▁▁▁▁▁▁▁▁| 61.12 %
 <pre>
-<font color='#777777'>Weather:</font> 🌦   Patchy rain nearby, +68°F, 92%, ↑2mph, 1013hPa
+<font color='#777777'>Weather:</font> 🌦   Patchy rain nearby, +18°C, 93%, ↖5km/h, 1012hPa
 <font color='#777777'>Timezone:</font> Asia/Jakarta
-<font color='#777777'>  Last Update:</font>    01:37:18+0700 <font color='#777777'>|</font> <font color='#777777'>Dawn:</font>    05:37:12  <font color='#777777'>|</font> <font color='#777777'>Sunrise:</font> 05:59:09
-<font color='#777777'>  Zenith:</font> 11:54:50      <font color='#777777'>|</font> <font color='#777777'>Sunset:</font>  17:50:32  <font color='#777777'>|</font> <font color='#777777'>Dusk:</font>    18:12:29
+<font color='#777777'>  Last Update:</font>    08:57:52+0700 <font color='#777777'>|</font> <font color='#777777'>Dawn:</font>    05:36:54  <font color='#777777'>|</font> <font color='#777777'>Sunrise:</font> 05:58:50
+<font color='#777777'>  Zenith:</font> 11:54:40      <font color='#777777'>|</font> <font color='#777777'>Sunset:</font>  17:50:31  <font color='#777777'>|</font> <font color='#777777'>Dusk:</font>    18:12:26
 <font color='#777777'>Location:</font> Bandung, Jawa Barat, Indonesia [-6.9338,107.6049]</pre>
 </div>
