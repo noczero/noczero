@@ -1,12 +1,12 @@
 ### Hi there, I'm Satrya!  <img src="https://raw.githubusercontent.com/noczero/noczero/master/styles/Hi.gif" width="30px">
 * Welcome to my virtual workspace, feel free to check out my [website](https://satrya.zeroinside.id) and [blog](https://blog.zeroinside.id).
 * I’m a [1x Engineer](https://1x.engineer/) in the Product/AI/Robotic fields.
-* I'm currently working as Product Engineer at [InterOpera](https://www.interopera.co/).
+* I'm currently working as AI Implementation Engineer at [Influx](https://influx.com).
 
 #### I Work with
-* 💻 [ Python | Ruby | JavaScript | Rust | Golang | C++ | C# | Java | PHP | HTML | CSS | MATLAB | Pascal ]
-* ☁ [ Mac OS | Ubuntu | Windows ]
-* :white_square_button: [ Windsurf | Jetbrains IDEs | Visual Studio Code | Android Studio ]
+* 💻 [ Ruby | JavaScript | Rust | Python | Golang | C++ | C# | Java | PHP | HTML | CSS | MATLAB | Pascal ]
+* ☁ [ Ubuntu | Windows | Mac Os ]
+* :white_square_button: [ Jetbrains IDEs | Visual Studio Code | Android Studio ]
 
 #### Some Completed Stuff
 * [ZeroTF Docker Stack](https://github.com/noczero/ZeroTF-Docker-Stack) - *TensorFlow with GPU enabled, Jupyter, Code-Server in Docker.*
@@ -36,11 +36,11 @@
 
 #### Additional
 <div align="center"> 
-⏳ Year progress |███████████████████▁▁▁▁▁▁▁▁▁▁▁| 64.05 %
+⏳ Year progress |███████████████████▁▁▁▁▁▁▁▁▁▁▁| 64.13 %
 <pre>
-<font color='#777777'>Weather:</font> 🌫  Mist, +20°C, 96%, ↓4km/h, 1013hPa
+<font color='#777777'>Weather:</font> 🌫  Mist, +18°C, 95%, ↖4km/h, 1012hPa
 <font color='#777777'>Timezone:</font> Asia/Jakarta
-<font color='#777777'>  Last Update:</font>    01:32:13+0700 <font color='#777777'>|</font> <font color='#777777'>Dawn:</font>    05:33:28  <font color='#777777'>|</font> <font color='#777777'>Sunrise:</font> 05:55:07
-<font color='#777777'>  Zenith:</font> 11:52:33      <font color='#777777'>|</font> <font color='#777777'>Sunset:</font>  17:49:57  <font color='#777777'>|</font> <font color='#777777'>Dusk:</font>    18:11:35
+<font color='#777777'>  Last Update:</font>    08:47:52+0700 <font color='#777777'>|</font> <font color='#777777'>Dawn:</font>    05:33:04  <font color='#777777'>|</font> <font color='#777777'>Sunrise:</font> 05:54:41
+<font color='#777777'>  Zenith:</font> 11:52:17      <font color='#777777'>|</font> <font color='#777777'>Sunset:</font>  17:49:51  <font color='#777777'>|</font> <font color='#777777'>Dusk:</font>    18:11:28
 <font color='#777777'>Location:</font> Bandung, Jawa Barat, Indonesia [-6.9338,107.6049]</pre>
 </div>
