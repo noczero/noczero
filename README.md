@@ -1,12 +1,12 @@
 ### Hi there, I'm Satrya!  <img src="https://raw.githubusercontent.com/noczero/noczero/master/styles/Hi.gif" width="30px">
 * Welcome to my virtual workspace, feel free to check out my [website](https://satrya.zeroinside.id) and [blog](https://blog.zeroinside.id).
 * I’m a [1x Engineer](https://1x.engineer/) in the Product/AI/Robotic fields.
-* I'm currently working as AI Implementation Engineer at [Influx](https://influx.com).
+* I'm currently working as Product Engineer at [InterOpera](https://www.interopera.co/).
 
 #### I Work with
-* 💻 [ Ruby | JavaScript | Rust | Python | Golang | C++ | C# | Java | PHP | HTML | CSS | MATLAB | Pascal ]
-* ☁ [ Ubuntu | Windows | Mac Os ]
-* :white_square_button: [ Jetbrains IDEs | Visual Studio Code | Android Studio ]
+* 💻 [ Python | Ruby | JavaScript | Rust | Golang | C++ | C# | Java | PHP | HTML | CSS | MATLAB | Pascal ]
+* ☁ [ Mac OS | Ubuntu | Windows ]
+* :white_square_button: [ Windsurf | Jetbrains IDEs | Visual Studio Code | Android Studio ]
 
 #### Some Completed Stuff
 * [ZeroTF Docker Stack](https://github.com/noczero/ZeroTF-Docker-Stack) - *TensorFlow with GPU enabled, Jupyter, Code-Server in Docker.*
