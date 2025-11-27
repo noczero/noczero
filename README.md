@@ -36,11 +36,11 @@
 
 #### Additional
 <div align="center"> 
-⏳ Year progress |███████████████████████████▁▁▁| 90.49 %
+⏳ Year progress |███████████████████████████▁▁▁| 90.56 %
 <pre>
-<font color='#777777'>Weather:</font> 🌦   Light rain shower, +80°F, 64%, ↓4mph, 1009hPa
+<font color='#777777'>Weather:</font> 🌦   Light rain shower, +22°C, 88%, ↘4km/h, 1010hPa
 <font color='#777777'>Timezone:</font> Asia/Jakarta
-<font color='#777777'>  Last Update:</font>    13:37:39+0700 <font color='#777777'>|</font> <font color='#777777'>Dawn:</font>    05:00:02  <font color='#777777'>|</font> <font color='#777777'>Sunrise:</font> 05:22:54
+<font color='#777777'>  Last Update:</font>    19:51:54+0700 <font color='#777777'>|</font> <font color='#777777'>Dawn:</font>    05:00:02  <font color='#777777'>|</font> <font color='#777777'>Sunrise:</font> 05:22:54
 <font color='#777777'>  Zenith:</font> 11:37:06      <font color='#777777'>|</font> <font color='#777777'>Sunset:</font>  17:51:29  <font color='#777777'>|</font> <font color='#777777'>Dusk:</font>    18:14:21
 <font color='#777777'>Location:</font> Bandung, Jawa Barat, Indonesia [-6.9338,107.6049]</pre>
 </div>
