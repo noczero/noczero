@@ -36,6 +36,6 @@
 
 #### Additional
 <div align="center"> 
-⏳ Year progress |████████████████████████▁▁▁▁▁▁| 81.42 %
+⏳ Year progress |████████████████████████▁▁▁▁▁▁| 81.50 %
 <</pre>
 </div>
