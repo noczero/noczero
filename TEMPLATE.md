@@ -39,3 +39,5 @@
 <MASK_PROGRESS_BAR/>
 <MASK_WEATHER/>
 </div>
+
+<img src="https://stats.zeroinside.id/p/gh-noczero" width="1" height="1" alt="">

@@ -39,3 +39,5 @@
 ⏳ Year progress |█████████████████████████▁▁▁▁▁| 86.02 %
 <</pre>
 </div>
+
+<img src="https://stats.zeroinside.id/p/gh-noczero" width="1" height="1" alt="">
